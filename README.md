@@ -1,6 +1,6 @@
 - 👋 Hi, I’m adam badawy
 - 👀 I’m interested in coding, gaming, and sports
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html and css and js
 - 💞️ I’m looking to find people to help me with my projects as i am just an 8th grader
 - 📫 How to reach me :  adam.badawy@outlook.com
 - 😄 Pronouns: ...
